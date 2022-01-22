@@ -1,18 +1,10 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
-    # Profile information
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
     name: Khashayar Etemadi
     tagline: PhD student
-    location: [KTH-TCS](https://www.kth.se/cs/tcs/research/software-construction-and-analysis-1.694964)
+    location: KTH-TCS
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
     email: khesoem@gmail.com
     phone: 0046 735 946 052
     github: khaes-kth
@@ -23,21 +15,14 @@ sidebar:
     codewars:
     goodreads:
     pdf:
-
     languages:
       - idiom: Persian
         level: Native
-
       - idiom: English
         level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Eating out
+      - item: Eating out :)
         link:
-
 career-profile:
     title: About Me
     summary: |
@@ -70,29 +55,28 @@ education:
         I worked on my Bachlor's final project under the supervision of [Abbas Heydarnoori](http://ise.ce.sharif.ir/director/).
           - Project title: Design & Implementation of an Android Application, Connecting to Wearable Health Gadgets
     - degree: Diploma in Mathematics and Physics
-        university: Allameh Helli Highschool
-        time: 2004 - 2011
-        details: |
+      university: Allameh Helli Highschool
+      time: 2004 - 2011
+      details: |
           I was very lucky to spend my highschool years at Allameh Helli Highschool,
           where I found friends and learned things that would shape my enire life.
 experiences:
-    - role: Lead Developer
+    - role: Technical Manager
       time: 2014 - 2016
-      company: [Tapsell](https://tapsell.ir/en/), Tehran
+      company: Pegah Dade Kavan Sharif, Tehran
       details: |
         Among other occasional duties, I worked as the Technical Manager of
-        TapsellAdNet (the leading mobile video advertisement platform in
-        Iran). We used MongoDB, Maven, Redis, Oracle Database, AngularJS,
+        [TapsellAdNet](https://tapsell.ir/en/) (a startup that quickly became the leading mobile video advertisement platform in
+        Iran at the time). We used MongoDB, Maven, Redis, Oracle Database, AngularJS,
         and various Spring projects to develop the system.
     - role: Developer - Technical Manager
       time: 2013 - 2014
-      company: [Rahnema Kamyabane Nakhostin](https://rahnema.com/), Tehran
+      company: Rahnema Kamyabane Nakhostin, Tehran
       details: |
         I had two roles at different times at Rahnema.
           - Technical manager of Jomlak (an Iranian social network similar to twitter) for three months.
           - Designed and developed a map-based android program
             for locating restaurants in Tehran. Also, developed the server side application using Django Framework.
-
 publications:
     title: Publications
     intro: |
@@ -102,28 +86,23 @@ publications:
         link: "https://arxiv.org/abs/2103.12033"
         authors: Khashayar Etemadi, Nicolas Harrand, Simon Larsen, Haris Adzemovic, Henry Luong Phu, Ashutosh Verma, Fernanda Madeiral, Douglas Wikstrom, and Martin Monperrus
         conference: "arXiv preprint arXiv:2103.12033 2021"
-
       - title: A Software-Repair Robot Based on Continual Learning
-          link: "https://ieeexplore.ieee.org/abstract/document/9393494/"
-          authors: Benoit Baudry, Zimin Chen, Khashayar Etemadi, Han Fu, Davide Ginelli, Steve Kommrusch, Martin Monperrus et al
-          conference: "IEEE Software 38, no. 4 (2021): 28-35"
-
+        link: "https://ieeexplore.ieee.org/abstract/document/9393494/"
+        authors: Benoit Baudry, Zimin Chen, Khashayar Etemadi, Han Fu, Davide Ginelli, Steve Kommrusch, Martin Monperrus et al
+        conference: "IEEE Software 38, no. 4 (2021): 28-35"
       - title: "Longitudinal Analysis of the Applicability of Program Repair on Past Commits"
         link: "https://arxiv.org/abs/2007.06986"
         authors: Khashayar Etemadi, Niloofar Tarighat, Siddharth Yadav, Matias Martinez, and Martin Monperrus.
         conference: "arXiv preprint arXiv:2007.06986 (2020)"
-
       - title: On the Relevance of Cross-project Learning with Nearest Neighbours for Commit Message Generation
         link: "https://dl.acm.org/doi/abs/10.1145/3387940.3391488"
         authors: Khashayar Etemadi, and Martin Monperrus
         conference: "Proceedings of the IEEE/ACM 42nd International Conference on Software Engineering Workshops, pp. 470-475. 2020"
-
       - title: Incorporating fault-proneness estimations into coverage-based test case prioritization methods
-          link: "https://www.sciencedirect.com/science/article/pii/S0950584920300197"
-          authors: Mostafa Mahdieh, Seyed-Hassan Mirian-Hosseinabadi, Khashayar Etemadi, Ali Nosrati, and Sajad Jalali
-          conference: "Information and Software Technology 121 (2020)"
-
+        link: "https://www.sciencedirect.com/science/article/pii/S0950584920300197"
+        authors: Mostafa Mahdieh, Seyed-Hassan Mirian-Hosseinabadi, Khashayar Etemadi, Ali Nosrati, and Sajad Jalali
+        conference: "Information and Software Technology 121 (2020)"
       - title: On the Relevance of Cross-project Learning with Nearest Neighbours for Commit Message Generation
-          link: "https://arxiv.org/abs/1512.02443"
-          authors: Saieed Akbari, Khashayar Etemadi, Peyman Ezzati, and Mehrdad Ghadiri
-          conference: "arXiv preprint arXiv:1512.02443 (2015)"
+        link: "https://arxiv.org/abs/1512.02443"
+        authors: Saieed Akbari, Khashayar Etemadi, Peyman Ezzati, and Mehrdad Ghadiri
+        conference: "arXiv preprint arXiv:1512.02443 (2015)"
