@@ -98,10 +98,10 @@ publications:
         link: "https://ieeexplore.ieee.org/abstract/document/9393494/"
         authors: Benoit Baudry, Zimin Chen, Khashayar Etemadi, Han Fu, Davide Ginelli, Steve Kommrusch, Martin Monperrus et al
         conference: "IEEE Software 38, no. 4 (2021): 28-35"
-      - title: "Longitudinal Analysis of the Applicability of Program Repair on Past Commits"
-        link: "https://arxiv.org/abs/2007.06986"
+      - title: "Estimating the potential of program repair search spaces with commit analysis"
+        link: "https://www.sciencedirect.com/science/article/pii/S0164121222000309"
         authors: Khashayar Etemadi, Niloofar Tarighat, Siddharth Yadav, Matias Martinez, and Martin Monperrus.
-        conference: "arXiv preprint arXiv:2007.06986 (2020)"
+        conference: "Journal of Systems and Software (2022), 111263"
       - title: On the Relevance of Cross-project Learning with Nearest Neighbours for Commit Message Generation
         link: "https://dl.acm.org/doi/abs/10.1145/3387940.3391488"
         authors: Khashayar Etemadi, and Martin Monperrus
