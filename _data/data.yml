@@ -90,10 +90,14 @@ publications:
     intro: |
       Here are my publications so far.
     papers:
+      - title: Augmenting Diffs With Runtime Information 
+        link: "https://arxiv.org/abs/2212.11077"
+        authors: Khashayar Etemadi, Aman Sharma, Fernanda Madeiral, Martin Monperrus
+        conference: "arXiv preprint arXiv:2212.11077 (2022)"
       - title: "Sorald: Automatic Patch Suggestions for SonarQube Static Analysis Violations"
         link: "https://arxiv.org/abs/2103.12033"
         authors: Khashayar Etemadi, Nicolas Harrand, Simon Larsen, Haris Adzemovic, Henry Luong Phu, Ashutosh Verma, Fernanda Madeiral, Douglas Wikstrom, and Martin Monperrus
-        conference: "arXiv preprint arXiv:2103.12033 2021"
+        conference: "IEEE Transactions on Dependable and Secure Computing (2022)"
       - title: A Software-Repair Robot Based on Continual Learning
         link: "https://ieeexplore.ieee.org/abstract/document/9393494/"
         authors: Benoit Baudry, Zimin Chen, Khashayar Etemadi, Han Fu, Davide Ginelli, Steve Kommrusch, Martin Monperrus et al
@@ -110,6 +114,10 @@ publications:
         link: "https://www.sciencedirect.com/science/article/pii/S0950584920300197"
         authors: Mostafa Mahdieh, Seyed-Hassan Mirian-Hosseinabadi, Khashayar Etemadi, Ali Nosrati, and Sajad Jalali
         conference: "Information and Software Technology 121 (2020)"
+      - title: Program state coverage: a test coverage metric based on executed program states
+        link: "https://ieeexplore.ieee.org/abstract/document/8667968/"
+        authors: Khashayar Etemadi Someoliayi, Sajad Jalali, Mostafa Mahdieh, Seyed-Hassan Mirian-Hosseinabadi
+        conference: "2019 IEEE 26th International Conference on Software Analysis, Evolution and Reengineering (SANER), pp. 584-588. 2019"
       - title: Even and Odd Cycles Passing a Given Edge or a Vertex 
         link: "https://arxiv.org/abs/1512.02443"
         authors: Saieed Akbari, Khashayar Etemadi, Peyman Ezzati, and Mehrdad Ghadiri
