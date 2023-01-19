@@ -114,7 +114,7 @@ publications:
         link: "https://www.sciencedirect.com/science/article/pii/S0950584920300197"
         authors: Mostafa Mahdieh, Seyed-Hassan Mirian-Hosseinabadi, Khashayar Etemadi, Ali Nosrati, and Sajad Jalali
         conference: "Information and Software Technology 121 (2020)"
-      - title: Program state coverage: a test coverage metric based on executed program states
+      - title: Program state coverage - a test coverage metric based on executed program states
         link: "https://ieeexplore.ieee.org/abstract/document/8667968/"
         authors: Khashayar Etemadi Someoliayi, Sajad Jalali, Mostafa Mahdieh, Seyed-Hassan Mirian-Hosseinabadi
         conference: "2019 IEEE 26th International Conference on Software Analysis, Evolution and Reengineering (SANER), pp. 584-588. 2019"
