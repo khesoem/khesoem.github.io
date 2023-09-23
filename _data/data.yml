@@ -85,6 +85,22 @@ experiences:
           - Technical manager of Jomlak (an Iranian social network similar to twitter) for three months.
           - Designed and developed a map-based android program
             for locating restaurants in Tehran. Also, developed the server side application using Django Framework.
+sats:
+    - title: An Empirical Study on Using Codex for Automated Program Repair
+      time: 2023
+      student: Master Thesis by Pengyu Zhao @ KTH
+    - title: Token Budget Minimisation of Large Language Model based Program Repair
+      time: 2023
+      student: Master Thesis by David Hidvegi @ KTh
+    - title: A Large-Scale Study of Automatic Program Repair on a Subset of Code4Bench
+      time: 2023
+      student: Master Thesis by Tony Le @ KTH
+    - title: Teaching Assistant @ KTH
+      time: 2019 - 2023
+      student: DevOps, Intro Programming, Design Patterns, Internet Programming, Programming Paradigms
+    - title: Teaching Assistant @ Sharif University of Technology
+      time: 2016 - 2017
+      student: Software Testing, Software Engineering
 publications:
     title: Publications
     intro: |
@@ -109,7 +125,7 @@ publications:
       - title: "Estimating the potential of program repair search spaces with commit analysis"
         link: "https://www.sciencedirect.com/science/article/pii/S0164121222000309"
         authors: Khashayar Etemadi, Niloofar Tarighat, Siddharth Yadav, Matias Martinez, and Martin Monperrus.
-        conference: "Journal of Systems and Software (2022), 111263"
+        conference: "Journal of Systems and Software (2022), 111263 / Journal-First-Track @ ASE2023"
       - title: On the Relevance of Cross-project Learning with Nearest Neighbours for Commit Message Generation
         link: "https://dl.acm.org/doi/abs/10.1145/3387940.3391488"
         authors: Khashayar Etemadi, and Martin Monperrus
