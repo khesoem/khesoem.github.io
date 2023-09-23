@@ -5,7 +5,7 @@ sidebar:
     tagline: PhD student
     location: KTH-TCS
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    email: khesoem@gmail.com
+    email: khaes@kth.se
     phone: 0046 735 946 052
     github: khaes-kth
     gitlab:
@@ -15,6 +15,7 @@ sidebar:
     codewars:
     goodreads:
     pdf:
+    scholar: https://scholar.google.com/citations?user=JwCMVZIAAAAJ&hl=en
     languages:
       - idiom: Persian
         level: Native
