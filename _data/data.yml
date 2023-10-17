@@ -110,9 +110,9 @@ publications:
       Here are my publications so far.
     papers:
       - title: Augmenting Diffs With Runtime Information 
-        link: "https://arxiv.org/abs/2212.11077"
+        link: "https://ieeexplore.ieee.org/abstract/document/10285584"
         authors: Khashayar Etemadi, Aman Sharma, Fernanda Madeiral, Martin Monperrus
-        conference: "Accepted at Transactions on Software Engineering (2023)"
+        conference: "Transactions on Software Engineering (2023)"
       - title: Human, What Must I Tell You?
         link: "https://ieeexplore.ieee.org/abstract/document/10109340/"
         authors: Markus Borg, Emil Aasa, Khashayar Etemadi, Martin Monperrus
