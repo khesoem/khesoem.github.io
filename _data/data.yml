@@ -152,7 +152,7 @@ grants:
 services:
     - title: Reviewer
       time: 2023
-      project: Information and Software technology (IST), Automated Software Engineering Journal (ASE)
+      venue: Information and Software technology (IST), Automated Software Engineering Journal (ASE)
     - title: Co-reviewer
       time: 2020-2023
-      project: IEEE Transactions on Software Engineering (TSE), Empirical Software Engineering (EMSE), ACM Transactions on Software Engineering and Methodology (TOSEM)
+      venue: IEEE Transactions on Software Engineering (TSE), Empirical Software Engineering (EMSE), ACM Transactions on Software Engineering and Methodology (TOSEM)
