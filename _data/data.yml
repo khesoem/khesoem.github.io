@@ -149,3 +149,10 @@ grants:
     - title: LiU Berzelius @ NSC
       time: 2023
       project: Computational Experiments for Generative AI Based Automatic Program Repair
+services:
+    - title: Reviewer
+      time: 2023
+      project: Information and Software technology (IST), Automated Software Engineering Journal (ASE)
+    - title: Co-reviewer
+      time: 2020-2023
+      project: IEEE Transactions on Software Engineering (TSE), Empirical Software Engineering (EMSE), ACM Transactions on Software Engineering and Methodology (TOSEM)
