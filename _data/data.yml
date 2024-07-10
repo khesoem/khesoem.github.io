@@ -72,6 +72,12 @@ education:
           I was very lucky to spend my highschool years at Allameh Helli Highschool,
           where I found friends and learned things that would shape my enire life.
 experiences:
+    - role: Visiting PhD Student
+      time: 2024 - 2024
+      company: ETH, Zurich
+      details: |
+        During my visit at ETH, Zurich as a PhD student, I worked on differential testing with LLMs. The visit resulted in submission our paper "Mokav: Execution-driven Differential Testing with LLMs". 
+        I was supervised by professor Zhendong Su during my visit.
     - role: Technical Manager
       time: 2014 - 2016
       company: Pegah Dade Kavan Sharif, Tehran
@@ -109,6 +115,10 @@ publications:
     intro: |
       Here are my publications so far.
     papers:
+      - title: CigaR- Cost-efficient Program Repair with LLMs
+        link: "https://arxiv.org/abs/2406.10375"
+        authors: Khashayar Etemadi*, Bardia Mohammadi*, Zhendong Su, Martin Monperrus (* indicates same level of contribution)
+        conference: arXiv preprint arXiv:2406.10375 (2024)
       - title: CigaR- Cost-efficient Program Repair with LLMs
         link: "https://arxiv.org/abs/2402.06598"
         authors: David Hidvegi*, Khashayar Etemadi*, Sofia Bobadilla, Martin Monperrus (* indicates same level of contribution)
