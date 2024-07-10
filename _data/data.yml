@@ -115,7 +115,7 @@ publications:
     intro: |
       Here are my publications so far.
     papers:
-      - title: CigaR- Cost-efficient Program Repair with LLMs
+      - title: Mokav- Execution-driven Differential Testing with LLMs
         link: "https://arxiv.org/abs/2406.10375"
         authors: Khashayar Etemadi*, Bardia Mohammadi*, Zhendong Su, Martin Monperrus (* indicates same level of contribution)
         conference: arXiv preprint arXiv:2406.10375 (2024)
