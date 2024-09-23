@@ -95,7 +95,7 @@ experiences:
           - Designed and developed a map-based android program
             for locating restaurants in Tehran. Also, developed the server side application using Django Framework.
 sats:
-    - title: A Comparative Lens on Infrastructure-as-Code Provisioning Solutions for Microsoft Azure
+    - title: A Comparative Lens on Infrastructure as Code Provisioning Solutions for Microsoft Azure
       time: 2024
       student: Master Thesis by Uqqasha Ijaz @ KTH
     - title: Effectiveness of Large Language Models to Generate Formally Verified C code
