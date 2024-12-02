@@ -34,7 +34,7 @@ career-profile:
 education:
     - degree: PhD in Empirical Software Engineering
       university: KTH Royal Institute of Technology
-      time: 2019 - 2024 (expected)
+      time: 2019 - 2024
       details: |
         In my PhD research, I am mainly focused on software patch understandability. I am trying to use different program analysis methods to
         exctract information that would be useful for learning-based and template-based techniques for patch explanation.
@@ -100,7 +100,7 @@ sats:
       student: Master Thesis by Uqqasha Ijaz @ KTH
     - title: Effectiveness of Large Language Models to Generate Formally Verified C code
       time: 2024
-      student: Master Thesis by Merlijn Sevenhuijsen @ KTh
+      student: Master Thesis by Merlijn Sevenhuijsen @ KTH
     - title: An Empirical Study on Using Codex for Automated Program Repair
       time: 2023
       student: Master Thesis by Pengyu Zhao @ KTH
