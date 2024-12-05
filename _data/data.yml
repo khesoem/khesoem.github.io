@@ -27,10 +27,10 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Since Sep 2019 I am a PhD student at [KTH Royal Institute of Technology](https://www.kth.se/), Sweden. My main supervisor is
-      [Martin Monperrus](https://www.monperrus.net/martin/) and I am also co-supervised by [Benoit Baudry](https://softwarediversity.eu/)
+      I earned my PhD in software engineering from [KTH Royal Institute of Technology](https://www.kth.se/), Sweden, on Nov 22, 2024. My main supervisor was
+      [Martin Monperrus](https://www.monperrus.net/martin/) and I was also co-supervised by [Benoit Baudry](https://softwarediversity.eu/)
       and [Fernanda Madeiral](https://fermadeiral.github.io/).
-      My main research interests are program analysis, automatic program repair, explainable software bots, and software quality assurance.
+      My main research interests are program analysis, automatic program repair, explainable software bots, AI4SE, and software quality assurance.
 education:
     - degree: PhD in Empirical Software Engineering
       university: KTH Royal Institute of Technology
@@ -38,7 +38,7 @@ education:
       details: |
         In my PhD research, I am mainly focused on software patch understandability. I am trying to use different program analysis methods to
         exctract information that would be useful for learning-based and template-based techniques for patch explanation.
-          - Thesis: Explainable Patch Suggestion: Making Software Patches Understandable for Humans
+          - Thesis: Efficient Exploration and Analysis of Program Repair Search Space
           - Supervisor: [Martin Monperrus](https://www.monperrus.net/martin/), [Benoit Baudriy](https://softwarediversity.eu/), [Fernanda Madeiral](https://fermadeiral.github.io/)
     - degree: MSc in Philosophy of Science
       university: Sharif University of Technology
@@ -121,7 +121,11 @@ publications:
     intro: |
       Here are my publications so far.
     papers:
-      - title: Mokav- Execution-driven Differential Testing with LLMs
+      - title: VeCoGen - Automating Generation of Formally Verified C Code with Large Language Models
+        link: "https://arxiv.org/abs/2411.19275"
+        authors: Merlijn Sevenhuijsen, Khashayar Etemadi, Mattias Nyberg
+        conference: arXiv preprint arXiv:2411.19275 (2024)
+      - title: Mokav - Execution-driven Differential Testing with LLMs
         link: "https://arxiv.org/abs/2406.10375"
         authors: Khashayar Etemadi*, Bardia Mohammadi*, Zhendong Su, Martin Monperrus (* indicates same level of contribution)
         conference: arXiv preprint arXiv:2406.10375 (2024)
