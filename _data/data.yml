@@ -1,0 +1,186 @@
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+    name: Khashayar Etemadi
+    tagline: PhD student
+    location: KTH-TCS
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    email: khaes@kth.se
+    phone: 0046 735 946 052
+    github: khaes-kth
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow:
+    codewars:
+    goodreads:
+    pdf:
+    scholar: https://scholar.google.com/citations?user=JwCMVZIAAAAJ&hl=en
+    languages:
+      - idiom: Persian
+        level: Native
+      - idiom: English
+        level: Professional
+    interests:
+      - item: Guitar & Eating out :)
+        link:
+career-profile:
+    title: About Me
+    summary: |
+      I earned my PhD in software engineering from [KTH Royal Institute of Technology](https://www.kth.se/), Sweden, on Nov 22, 2024. My main supervisor was
+      [Martin Monperrus](https://www.monperrus.net/martin/) and I was also co-supervised by [Benoit Baudry](https://softwarediversity.eu/)
+      and [Fernanda Madeiral](https://fermadeiral.github.io/).
+      My main research interests are program analysis, automatic program repair, explainable software bots, AI4SE, and software quality assurance.
+education:
+    - degree: PhD in Empirical Software Engineering
+      university: KTH Royal Institute of Technology
+      time: 2019 - 2024
+      details: |
+        In my PhD research, I am mainly focused on software patch understandability. I am trying to use different program analysis methods to
+        exctract information that would be useful for learning-based and template-based techniques for patch explanation.
+          - Thesis: Efficient Exploration and Analysis of Program Repair Search Space
+          - Supervisor: [Martin Monperrus](https://www.monperrus.net/martin/), [Benoit Baudriy](https://softwarediversity.eu/), [Fernanda Madeiral](https://fermadeiral.github.io/)
+    - degree: MSc in Philosophy of Science
+      university: Sharif University of Technology
+      time: 2017 - 2019
+      details: |
+        I received a Master of Science degree in Philosophy of Science from Sharif University of Technology in 2019.
+        Since the first lecture that I attended in this program, I have become super interested in meta-ethics.
+          - Thesis: The Problem of Error Theory about Normative Properties and Its Consequences
+          - Supervisor: [Ebrahim Azadegan](http://philsci.sharif.ir/people/faculty/ebrahim-azadegan/)
+    - degree: MSc in Software Engineering
+      university: Sharif University of Technology
+      time: 2015 - 2017
+      details: |
+        I wrote my Master's thesis under the supervision of [Hassan Mirian](http://ce.sharif.edu/~mirian/page.php).
+        Professor Mirian's research group mainly works on quality assurance.
+        In addition to writing my Master's thesis, I also had a fruitful collaboration with my colleagues at Prof. Mirian's lab,
+        where we published two papers on software testing.
+          - Thesis: Generating Mutants from Android Event-Driven Programs
+          - Supervisor: [Hassan Mirian](http://sharif.ir/~hmirian/biography.html)
+    - degree: BSc in Software Engineering
+      university: Sharif University of Technology
+      time: 2011 - 2015
+      details: |
+        I worked on my Bachlor's final project under the supervision of [Abbas Heydarnoori](http://ise.ce.sharif.ir/director/).
+          - Project title: Design & Implementation of an Android Application, Connecting to Wearable Health Gadgets
+          - Supervisor: [Abbas Heydarnoori](https://www.linkedin.com/in/abbas-heydarnoori-5294912/)
+    - degree: Diploma in Mathematics and Physics
+      university: Allameh Helli Highschool
+      time: 2004 - 2011
+      details: |
+          I was very lucky to spend my highschool years at Allameh Helli Highschool,
+          where I found friends and learned things that would shape my enire life.
+experiences:
+    - role: Visiting PhD Student
+      time: 2024 - 2024
+      company: ETH, Zurich
+      details: |
+        During my visit at ETH, Zurich as a PhD student, I worked on differential testing with LLMs. The visit resulted in submission our paper "Mokav: Execution-driven Differential Testing with LLMs". 
+        I was supervised by professor Zhendong Su during my visit.
+    - role: Technical Manager
+      time: 2014 - 2016
+      company: Pegah Dade Kavan Sharif, Tehran
+      details: |
+        Among other occasional duties, I worked as the Technical Manager of
+        [TapsellAdNet](https://tapsell.ir/en/) (a startup that quickly became the leading mobile video advertisement platform in
+        Iran at the time). We used MongoDB, Maven, Redis, Oracle Database, AngularJS,
+        and various Spring projects to develop the system.
+    - role: Developer - Technical Manager
+      time: 2013 - 2014
+      company: Rahnema Kamyabane Nakhostin, Tehran
+      details: |
+        I had two roles at different times at Rahnema.
+          - Technical manager of Jomlak (an Iranian social network similar to twitter) for three months.
+          - Designed and developed a map-based android program
+            for locating restaurants in Tehran. Also, developed the server side application using Django Framework.
+sats:
+    - title: A Comparative Lens on Infrastructure as Code Provisioning Solutions for Microsoft Azure
+      time: 2024
+      student: Master Thesis by Uqqasha Ijaz @ KTH
+    - title: Effectiveness of Large Language Models to Generate Formally Verified C code
+      time: 2024
+      student: Master Thesis by Merlijn Sevenhuijsen @ KTH
+    - title: An Empirical Study on Using Codex for Automated Program Repair
+      time: 2023
+      student: Master Thesis by Pengyu Zhao @ KTH
+    - title: Token Budget Minimisation of Large Language Model based Program Repair
+      time: 2023
+      student: Master Thesis by David Hidvegi @ KTh
+    - title: A Large-Scale Study of Automatic Program Repair on a Subset of Code4Bench
+      time: 2023
+      student: Master Thesis by Tony Le @ KTH
+    - title: Teaching Assistant @ KTH
+      time: 2019 - 2024
+      student: DevOps, Intro Programming, Design Patterns, Internet Programming, Programming Paradigms
+    - title: Teaching Assistant @ Sharif University of Technology
+      time: 2016 - 2017
+      student: Software Testing, Software Engineering
+publications:
+    title: Publications
+    intro: |
+      Here are my publications so far.
+    papers:
+      - title: VeCoGen - Automating Generation of Formally Verified C Code with Large Language Models
+        link: "https://arxiv.org/abs/2411.19275"
+        authors: Merlijn Sevenhuijsen, Khashayar Etemadi, Mattias Nyberg
+        conference: arXiv preprint arXiv:2411.19275 (2024)
+      - title: Mokav - Execution-driven Differential Testing with LLMs
+        link: "https://arxiv.org/abs/2406.10375"
+        authors: Khashayar Etemadi*, Bardia Mohammadi*, Zhendong Su, Martin Monperrus (* indicates same level of contribution)
+        conference: arXiv preprint arXiv:2406.10375 (2024)
+      - title: CigaR- Cost-efficient Program Repair with LLMs
+        link: "https://arxiv.org/abs/2402.06598"
+        authors: David Hidvegi*, Khashayar Etemadi*, Sofia Bobadilla, Martin Monperrus (* indicates same level of contribution)
+        conference: arXiv preprint arXiv:2402.06598 (2024)
+      - title: Generative AI to Generate Test Data Generators
+        link: "https://arxiv.org/abs/2401.17626"
+        authors: Benoit Baudry, Khashayar Etemadi, Sen Fang, Yogya Gamage, Yi Liu, Yuxin Liu, Martin Monperrus, Javier Ron, Andre Silva, Deepika Tiwari
+        conference: arXiv preprint arXiv:2401.17626 (2024)
+      - title: Augmenting Diffs With Runtime Information 
+        link: "https://ieeexplore.ieee.org/abstract/document/10285584"
+        authors: Khashayar Etemadi, Aman Sharma, Fernanda Madeiral, Martin Monperrus
+        conference: "Transactions on Software Engineering (2023)"
+      - title: Human, What Must I Tell You?
+        link: "https://ieeexplore.ieee.org/abstract/document/10109340/"
+        authors: Markus Borg, Emil Aasa, Khashayar Etemadi, Martin Monperrus
+        conference: "IEEE Software 40 (3), 9-14 (2023)"
+      - title: "Sorald: Automatic Patch Suggestions for SonarQube Static Analysis Violations"
+        link: "https://arxiv.org/abs/2103.12033"
+        authors: Khashayar Etemadi, Nicolas Harrand, Simon Larsen, Haris Adzemovic, Henry Luong Phu, Ashutosh Verma, Fernanda Madeiral, Douglas Wikstrom, and Martin Monperrus
+        conference: "IEEE Transactions on Dependable and Secure Computing (2022)"
+      - title: A Software-Repair Robot Based on Continual Learning
+        link: "https://ieeexplore.ieee.org/abstract/document/9393494/"
+        authors: Benoit Baudry, Zimin Chen, Khashayar Etemadi, Han Fu, Davide Ginelli, Steve Kommrusch, Martin Monperrus et al
+        conference: "IEEE Software 38, no. 4 (2021): 28-35"
+      - title: "Estimating the potential of program repair search spaces with commit analysis"
+        link: "https://www.sciencedirect.com/science/article/pii/S0164121222000309"
+        authors: Khashayar Etemadi, Niloofar Tarighat, Siddharth Yadav, Matias Martinez, and Martin Monperrus.
+        conference: "Journal of Systems and Software (2022), 111263 / Journal-First-Track @ ASE2023"
+      - title: On the Relevance of Cross-project Learning with Nearest Neighbours for Commit Message Generation
+        link: "https://dl.acm.org/doi/abs/10.1145/3387940.3391488"
+        authors: Khashayar Etemadi, and Martin Monperrus
+        conference: "Proceedings of the IEEE/ACM 42nd International Conference on Software Engineering Workshops, pp. 470-475. 2020"
+      - title: Incorporating fault-proneness estimations into coverage-based test case prioritization methods
+        link: "https://www.sciencedirect.com/science/article/pii/S0950584920300197"
+        authors: Mostafa Mahdieh, Seyed-Hassan Mirian-Hosseinabadi, Khashayar Etemadi, Ali Nosrati, and Sajad Jalali
+        conference: "Information and Software Technology 121 (2020)"
+      - title: Program state coverage - a test coverage metric based on executed program states
+        link: "https://ieeexplore.ieee.org/abstract/document/8667968/"
+        authors: Khashayar Etemadi Someoliayi, Sajad Jalali, Mostafa Mahdieh, Seyed-Hassan Mirian-Hosseinabadi
+        conference: "2019 IEEE 26th International Conference on Software Analysis, Evolution and Reengineering (SANER), pp. 584-588. 2019"
+      - title: Even and Odd Cycles Passing a Given Edge or a Vertex 
+        link: "https://arxiv.org/abs/1512.02443"
+        authors: Saieed Akbari, Khashayar Etemadi, Peyman Ezzati, and Mehrdad Ghadiri
+        conference: "arXiv preprint arXiv:1512.02443 (2015)"
+grants:
+    - title: LiU Berzelius @ NSC
+      time: 2023
+      project: Computational Experiments for Generative AI Based Automatic Program Repair
+services:
+    - title: Reviewer
+      time: 2023-2024
+      venue: Information and Software technology (IST), Automated Software Engineering Journal (ASE), Software Testing, Verification and Reliability (STVR), ICSME (2024)
+    - title: Co-reviewer
+      time: 2020-2023
+      venue: IEEE Transactions on Software Engineering (TSE), Empirical Software Engineering (EMSE), ACM Transactions on Software Engineering and Methodology (TOSEM), ICSE (2025)
