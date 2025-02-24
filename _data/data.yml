@@ -124,7 +124,7 @@ publications:
       - title: VeCoGen - Automating Generation of Formally Verified C Code with Large Language Models
         link: "https://arxiv.org/abs/2411.19275"
         authors: Merlijn Sevenhuijsen, Khashayar Etemadi, Mattias Nyberg
-        conference: arXiv preprint arXiv:2411.19275 (2024)
+        conference: Accepted at FormaliSE 2025
       - title: Mokav - Execution-driven Differential Testing with LLMs
         link: "https://arxiv.org/abs/2406.10375"
         authors: Khashayar Etemadi*, Bardia Mohammadi*, Zhendong Su, Martin Monperrus (* indicates same level of contribution)
