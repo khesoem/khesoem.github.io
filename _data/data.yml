@@ -179,8 +179,8 @@ grants:
       project: Computational Experiments for Generative AI Based Automatic Program Repair
 services:
     - title: Reviewer
-      time: 2023-2024
-      venue: Information and Software technology (IST), Automated Software Engineering Journal (ASE), Software Testing, Verification and Reliability (STVR), ICSME (2024)
+      time: 2023-2025
+      venue: ACM Transactions on Software Engineering and Methodology (TOSEM), Information and Software technology (IST), Automated Software Engineering Journal (ASE), Software Testing, Verification and Reliability (STVR), ICSME (2024)
     - title: Co-reviewer
-      time: 2020-2023
-      venue: IEEE Transactions on Software Engineering (TSE), Empirical Software Engineering (EMSE), ACM Transactions on Software Engineering and Methodology (TOSEM), ICSE (2025)
+      time: 2020-2025
+      venue: IEEE Transactions on Software Engineering (TSE), Empirical Software Engineering (EMSE), ICSE (2025), SPIN (2025)
