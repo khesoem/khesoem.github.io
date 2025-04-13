@@ -2,8 +2,8 @@ sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
     name: Khashayar Etemadi
-    tagline: PhD student
-    location: KTH-TCS
+    tagline: Postdoctoral Researcher
+    location: ETH Zurich
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     email: khesoem@gmail.com
     phone: 0046 735 946 052
@@ -31,7 +31,7 @@ career-profile:
       I earned my PhD in software engineering from [KTH Royal Institute of Technology](https://www.kth.se/), Sweden, on Nov 22, 2024. My main supervisor was
       [Martin Monperrus](https://www.monperrus.net/martin/) and I was also co-supervised by [Benoit Baudry](https://softwarediversity.eu/)
       and [Fernanda Madeiral](https://fermadeiral.github.io/).
-      My main research interests are program analysis, automatic program repair, explainable software bots, AI4SE, and software quality assurance.
+      My main research interests are empirical software engineering, automatic program repair, explainable software bots, AI4SE, and software quality assurance.
 education:
     - degree: Postoctoral Researcher
       university: ETH Zurich
