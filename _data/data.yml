@@ -27,11 +27,24 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
+      I am a postdoctoral researcher at ETH Zurich from April 2025, supervised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/), working on LLM4SE. Previously, I also held a short-term postdoc poisition at Malardalen University, where I worked on LLM-based property-based test generation for CPSs under the supervision of [Prof. Marjan Sirjani](https://marjansirjani.github.io/Marjan-Sirjani/).
       I earned my PhD in software engineering from [KTH Royal Institute of Technology](https://www.kth.se/), Sweden, on Nov 22, 2024. My main supervisor was
       [Martin Monperrus](https://www.monperrus.net/martin/) and I was also co-supervised by [Benoit Baudry](https://softwarediversity.eu/)
       and [Fernanda Madeiral](https://fermadeiral.github.io/).
       My main research interests are program analysis, automatic program repair, explainable software bots, AI4SE, and software quality assurance.
 education:
+    - degree: Postoctoral Researcher
+      university: ETH Zurich
+      time: 2025 - 2027
+      details: |
+        I work on employing LLMs for automating various software engineering tasks.
+          - Supervisor: [Zhendong Su](https://people.inf.ethz.ch/suz/)
+    - degree: Postoctoral Researcher
+      university: Malardalen University
+      details: |
+        During the three months I spent at Malardalen University, I worked on Guardrailing Cyber Physical Systems with LLM Generated Property Based Tests.
+          - Supervisor: [Prof. Marjan Sirjani](https://marjansirjani.github.io/Marjan-Sirjani/)
+      time: 2025 - 2025
     - degree: PhD in Empirical Software Engineering
       university: KTH Royal Institute of Technology
       time: 2019 - 2024
