@@ -149,7 +149,7 @@ publications:
       - title: Generative AI to Generate Test Data Generators
         link: "https://arxiv.org/abs/2401.17626"
         authors: Benoit Baudry, Khashayar Etemadi, Sen Fang, Yogya Gamage, Yi Liu, Yuxin Liu, Martin Monperrus, Javier Ron, Andre Silva, Deepika Tiwari
-        conference: arXiv preprint arXiv:2401.17626 (2024)
+        conference: "IEEE Software (2024)"
       - title: Augmenting Diffs With Runtime Information 
         link: "https://ieeexplore.ieee.org/abstract/document/10285584"
         authors: Khashayar Etemadi, Aman Sharma, Fernanda Madeiral, Martin Monperrus
