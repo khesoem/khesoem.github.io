@@ -33,13 +33,13 @@ career-profile:
       and [Fernanda Madeiral](https://fermadeiral.github.io/).
       My main research interests are empirical software engineering, automatic program repair, explainable software bots, AI4SE, and software quality assurance.
 education:
-    - degree: Postoctoral Researcher
+    - degree: Postdoctoral Researcher
       university: ETH Zurich
       time: 2025 - 2027
       details: |
         I work on employing LLMs for automating various software engineering tasks.
           - Supervisor: [Zhendong Su](https://people.inf.ethz.ch/suz/)
-    - degree: Postoctoral Researcher
+    - degree: Postdoctoral Researcher
       university: Malardalen University
       details: |
         During the three months I spent at Malardalen University, I worked on Guardrailing Cyber Physical Systems with LLM Generated Property Based Tests.
