@@ -134,6 +134,10 @@ publications:
     intro: |
       Here are my publications so far.
     papers:
+      - title: LLM-based Property-based Test Generation for Guardrailing Cyber-Physical Systems
+        link: "https://arxiv.org/abs/2505.23549"
+        authors: Khashayar Etemadi, Marjan Sirjani, Mahshid Helali Moghadam, Per Strandberg, Paul Pettersson
+        conference: arXiv preprint arXiv:2505.23549 (2025)
       - title: VeCoGen - Automating Generation of Formally Verified C Code with Large Language Models
         link: "https://arxiv.org/abs/2411.19275"
         authors: Merlijn Sevenhuijsen, Khashayar Etemadi, Mattias Nyberg
