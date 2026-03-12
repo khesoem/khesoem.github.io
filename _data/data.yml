@@ -200,7 +200,7 @@ services:
       venue: ICSME (2024), LMPL@SPLASH (2025)
     - title: Reviewer
       time: 2023-Now
-      venue: IEEE Transactions on Software Engineering (TSE), ICSE (2025), SPIN (2025), ACM Transactions on Software Engineering and Methodology (TOSEM), Information and Software technology (IST), Automated Software Engineering Journal (ASE), Software Testing, Verification and Reliability (STVR)
+      venue: IEEE Transactions on Software Engineering (TSE), ACM Transactions on Software Engineering and Methodology (TOSEM), ICSE (2025), SPIN (2025), Information and Software technology (IST), Automated Software Engineering Journal (ASE), Software Testing, Verification and Reliability (STVR)
     - title: Co-reviewer
       time: 2020-Now
       venue: IEEE Transactions on Software Engineering (TSE), Empirical Software Engineering (EMSE)
