@@ -108,6 +108,9 @@ experiences:
           - Designed and developed a map-based android program
             for locating restaurants in Tehran. Also, developed the server side application using Django Framework.
 sats:
+    - title: Constructing a Dataset of Optimization Commits in Open-Source C++ Project
+      time: 2026
+      student: Master Thesis by Tommy Ho @ ETH
     - title: A Comparative Lens on Infrastructure as Code Provisioning Solutions for Microsoft Azure
       time: 2024
       student: Master Thesis by Uqqasha Ijaz @ KTH
@@ -119,7 +122,7 @@ sats:
       student: Master Thesis by Pengyu Zhao @ KTH
     - title: Token Budget Minimisation of Large Language Model based Program Repair
       time: 2023
-      student: Master Thesis by David Hidvegi @ KTh
+      student: Master Thesis by David Hidvegi @ KTH
     - title: A Large-Scale Study of Automatic Program Repair on a Subset of Code4Bench
       time: 2023
       student: Master Thesis by Tony Le @ KTH
@@ -135,13 +138,13 @@ publications:
       Here are my publications so far.
     papers:
       - title: LLM-based Property-based Test Generation for Guardrailing Cyber-Physical Systems
-        link: "https://arxiv.org/abs/2505.23549"
+        link: "https://link.springer.com/chapter/10.1007/978-3-032-07132-3_3"
         authors: Khashayar Etemadi, Marjan Sirjani, Mahshid Helali Moghadam, Per Strandberg, Paul Pettersson
-        conference: Accepted at AISoLA (2025)
+        conference: "AISoLA (2025)"
       - title: VeCoGen - Automating Generation of Formally Verified C Code with Large Language Models
-        link: "https://arxiv.org/abs/2411.19275"
+        link: "https://ieeexplore.ieee.org/abstract/document/11024330/"
         authors: Merlijn Sevenhuijsen, Khashayar Etemadi, Mattias Nyberg
-        conference: "Accepted at FormaliSE 2025"
+        conference: "FormaliSE (2025)"
       - title: Mokav - Execution-driven Differential Testing with LLMs
         link: "https://www.sciencedirect.com/science/article/pii/S0164121225002407"
         authors: Khashayar Etemadi*, Bardia Mohammadi*, Zhendong Su, Martin Monperrus (* indicates same level of contribution)
@@ -163,7 +166,7 @@ publications:
         authors: Markus Borg, Emil Aasa, Khashayar Etemadi, Martin Monperrus
         conference: "IEEE Software 40 (3), 9-14 (2023)"
       - title: "Sorald: Automatic Patch Suggestions for SonarQube Static Analysis Violations"
-        link: "https://arxiv.org/abs/2103.12033"
+        link: "https://ieeexplore.ieee.org/abstract/document/9756950/"
         authors: Khashayar Etemadi, Nicolas Harrand, Simon Larsen, Haris Adzemovic, Henry Luong Phu, Ashutosh Verma, Fernanda Madeiral, Douglas Wikstrom, and Martin Monperrus
         conference: "IEEE Transactions on Dependable and Secure Computing (2022)"
       - title: A Software-Repair Robot Based on Continual Learning
