@@ -137,6 +137,10 @@ publications:
     intro: |
       Here are my publications so far.
     papers:
+      - title: Steering AI Tutors Through System Prompts - A Crossover Study on Self-Regulated Learning and Cognitive Engagement Scaffolds in CS1
+        link: "https://dl.acm.org/doi/full/10.1145/3765964.3811656"
+        authors: Maximilian Georg Barth, Sverrir Thorgeirsson, Khashayar Etemadi, Juho Leinonen, Carlos Cotrini, Zhendong Su
+        conference: "2026 ACM Conference on International Computing Education Research"
       - title: JETO-Bench - A Reproducible Benchmark for Execution Time Improvement Patches in Java
         link: "https://arxiv.org/abs/2606.31767"
         authors: Khashayar Etemadi, Zhendong Su
@@ -207,7 +211,7 @@ grants:
 services:
     - title: PC Member
       time: 2024-Now
-      venue: FSE (2027), ICSME (2024), LMPL@SPLASH (2025)
+      venue: FSE (2027), APR@ASE (2026), SRC@ASE (2026), ICSME (2024), LMPL@SPLASH (2025)
     - title: Reviewer
       time: 2023-Now
       venue: IEEE Transactions on Software Engineering (TSE), ACM Transactions on Software Engineering and Methodology (TOSEM), ICSE (2025), SPIN (2025), Information and Software technology (IST), Automated Software Engineering Journal (ASE), Software Testing, Verification and Reliability (STVR)
