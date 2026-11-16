@@ -214,7 +214,4 @@ services:
       venue: FSE (2027), APR@ASE (2026), SRC@ASE (2026), ICSME (2024), LMPL@SPLASH (2025)
     - title: Reviewer
       time: 2023-Now
-      venue: IEEE Transactions on Software Engineering (TSE), ACM Transactions on Software Engineering and Methodology (TOSEM), ICSE (2025), SPIN (2025), Information and Software technology (IST), Automated Software Engineering Journal (ASE), Software Testing, Verification and Reliability (STVR)
-    - title: Co-reviewer
-      time: 2020-Now
-      venue: IEEE Transactions on Software Engineering (TSE), Empirical Software Engineering (EMSE)
+      venue: IEEE Transactions on Software Engineering (TSE), ACM Transactions on Software Engineering and Methodology (TOSEM), Empirical Software Engineering (EMSE), Information and Software technology (IST), Automated Software Engineering Journal (ASEj), Software Testing, Verification and Reliability (STVR)
